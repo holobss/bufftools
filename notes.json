@@ -1,12 +1,12 @@
 {
   "version": "2.7.25",
-  "hello": "Привет",
+  "hello": "Hello",
   "added": [
-    "Вкладка Other: скрипт можно убрать из игры или загрузить заново",
-    "При входе видно, что появилось и что убрали в этом обновлении",
-    "Reset to default возвращает плитки на исходные места"
+    "Other tab: remove the script from the game, or load it again",
+    "On inject, a card shows what this update added and removed",
+    "Reset to default puts the tiles back on their original spots"
   ],
   "removed": [
-    "Повторный запуск больше не должен оставлять прошлый скрипт в игре"
+    "Injecting again no longer leaves the previous script running"
   ]
 }
