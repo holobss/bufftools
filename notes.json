@@ -1,11 +1,10 @@
 {
-  "version": "2.7.26",
+  "version": "2.7.27",
   "hello": "Hello",
   "added": [
-    "Menu text is set in Pusia",
-    "A light snow falls behind the menu"
+    "Menu and tile text now use Montserrat Black"
   ],
   "removed": [
-    "The Buffs, Tokens and Precision line at the top of the menu"
+    "The lighter menu font"
   ]
 }
