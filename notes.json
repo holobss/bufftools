@@ -1,12 +1,11 @@
 {
-  "version": "2.7.25",
+  "version": "2.7.26",
   "hello": "Hello",
   "added": [
-    "Other tab: remove the script from the game, or load it again",
-    "On inject, a card shows what this update added and removed",
-    "Reset to default puts the tiles back on their original spots"
+    "Menu text is set in Pusia",
+    "A light snow falls behind the menu"
   ],
   "removed": [
-    "Injecting again no longer leaves the previous script running"
+    "The Buffs, Tokens and Precision line at the top of the menu"
   ]
 }
